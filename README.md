@@ -1,4 +1,4 @@
-# <p align="center"> COV-Info (National AIM App Challenge winner 2020) </p>
+# <p align="center"> COV-Info </p>
 
 <div align="center">
 <img src="https://img.shields.io/github/forks/jagadish-pattanaik/cov-info"/>
