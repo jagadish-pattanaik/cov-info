@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/github/repo-size/jagadish-pattanaik/cov-info"/>
 </div>
 
-COV-Info is a national level AIM App Challenge 2020 (organised by AIM and NITI AAYOG) winner in COVID-19 response category and among the top 21 apps nation wide of different categories by leaveing behind 3000+ applications who had participated. It gives stats about COVID-19 of the whole world and also awares people about different precautions and measures.
+COV-Info is a national level AIM App Challenge 2020 (organised by AIM and NITI AAYOG) & CSIR Jigynsa Mahotsav 2022 winner in COVID-19 response category and among the top 21 apps nation wide of different categories by leaveing behind 3000+ applications who had participated. It gives stats about COVID-19 of the whole world and also awares people about different precautions and measures.
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
